@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Menju 'Fitnes'",
+      "descr": "Menju 'Fitnes' - jeto novyj podhod k prigotovleniju bljud: bolshe svezhih ovoshhej i fruktov. Produkt aktivnyh i zdorovyh ljudej. Jeto absoljutno novyj produkt s optimalnoj cenoj i vysokim kachestvom!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Menju 'Postnoe'",
+      "descr": "Menju 'Postnoe' - jeto tshhatelnyj podbor ingredientov: polnoe otsutstvie produktov zhivotnogo proishozhdenija, moloko iz mindalja, ovsa, kokosa ili grechki, pravilnoe kolichestvo belkov za schet tofu i importnyh vegetarianskih stejkov.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Menju 'Premium'",
+      "descr": "V menju 'Premium' my ispolzuem ne tolko krasivyj dizajn upakovki, no i kachestvennoe ispolnenie bljud. Krasnaja ryba, moreprodukty, frukty - restorannoe menju bez pohoda v restoran!",
+      "price": 21
+    }
+  ],
+  "requests": [
+      
+  ]
+}
